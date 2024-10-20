@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacVC82
 - 👀 I’m interested in ...work
-- 🌱 I’m currently learning ...a degree in web systems 
+- 🌱 I’m currently learning ...a degree in web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...drawcommissions@gmail.com
 
